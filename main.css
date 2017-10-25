@@ -1,0 +1,46 @@
+body{
+  
+}
+
+.wrapper{
+   display: grid;
+    grid-column: auto;
+    grid-row: auto;
+    background-color: lightgray;
+    margin: 50px;
+    
+   
+}
+
+h3{
+  font-style: italic;
+  text-align: center;
+}
+
+h1{
+  font-size: 75px;
+  text-align: center;
+}
+
+.image p{
+    text-align: center;
+}
+
+.image{
+    margin:auto;
+    border: 2px solid white;
+    background-color: white;
+}
+
+
+.timeline ul{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.timeline h2{
+    text-align: center;
+}
+
+
+
